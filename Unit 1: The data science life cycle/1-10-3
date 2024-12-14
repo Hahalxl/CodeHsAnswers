@@ -1,0 +1,43 @@
+import pandas as pd
+
+
+data = pd.read_csv("a.csv")
+df = pd.DataFrame(data)
+
+
+def wpw(worth, weight):
+    return worth/weight
+    
+def apw(age, worth):
+    return age // worth
+    
+def age(birth_year):
+    return 2024-birth_year
+    
+df['age'] = age(df['birth_year'])
+
+df['worth_per_weight'] = wpw(df["net_worth"], df["weight"])
+df['apw'] = apw(df["age"], df["net_worth"])
+
+max_worth = df["worth_per_weight"].max()
+ae = df["age"].max()
+aa = df["age"].mean()
+am = df["age"].min()
+
+print("===============================================")
+print()
+print("The maximum value in the worth_per_weight column") 
+print("is " + str(round(max_worth, 2)) + "\n")
+print("================================================")
+print()
+print("The maximum value in the age column") 
+print("is " + str(round(ae, 2)) + "\n")
+print("================================================")
+print()
+print("The average value in the age column") 
+print("is " + str(round(ae, 2)) + "\n")
+print("================================================")
+print()
+print("The minium value in the age column") 
+print("is " + str(round(am, 2)) + "\n")
+print("================================================")
