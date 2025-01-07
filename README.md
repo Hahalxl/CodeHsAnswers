@@ -5,8 +5,8 @@
 * Python codes and ONLY python codes
 * Maybe all the answers for CodeHS????
 
-#FAQ
--Uh I can't find a answer please help!!!!!
+# FAQ
+- Uh I can't find a answer please help!!!!!
 * Comment it at issues!
   
 # NOTICE:
