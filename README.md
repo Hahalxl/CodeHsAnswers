@@ -1,8 +1,13 @@
 # CodeHS answer.
+<img src="image/codehs.png" style="width: 100%;">
 
 # What this repo contains:
 * Python codes and ONLY python codes
 * Maybe all the answers for CodeHS????
+
+#FAQ
+-Uh I can't find a answer please help!!!!!
+* Comment it at issues!
   
 # NOTICE:
 * This repo DOES NOT have anything else on CodeHs. Only Python (Before unit 4).
