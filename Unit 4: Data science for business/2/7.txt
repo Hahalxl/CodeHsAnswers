@@ -1,0 +1,7 @@
+Anna.csv has the highest level of completeness because there are only 2 indexes we can determine this by finding how much values are missing of each column
+
+cereal.csv has the lowest level of completeness as there are a lot of value missing within the dataset.
+
+As the number of columns increases the completeness are usally lower.
+
+Make the data more "Complete".
