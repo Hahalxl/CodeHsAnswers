@@ -1,0 +1,8 @@
+1. What is one way that the company has used big data? 
+Invetory mangement.
+
+2. From where did they get the data? If the article doesn't say, how do you *think* they got the data?
+They get the datas from their server.
+
+3. Brainstorm another method of data analytics that could possibly help the company.
+Sort out the most hot sale item.
