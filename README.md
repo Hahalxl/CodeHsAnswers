@@ -9,7 +9,7 @@
 - Uh I can't find a answer please help!!!!!
 * Comment it at issues!
 - HOW ABOUT JAVA MY TEACHER WILL KILL ME IF I DON'T DO THEM
-* check <a href="#">this page</a>
+* check <a href="https://github.com/Hahalxl/CodehsJava/">this page</a>
   
 # NOTICE:
 * This repo DOES NOT have anything else on CodeHs. Only Python (Before unit 4).
